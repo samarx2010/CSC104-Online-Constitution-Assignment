@@ -1,0 +1,33 @@
+body{
+	
+        background-image: url('88628.jpg'); /* the background image of the webpage */
+       
+      
+	
+}
+
+h1{  /* First Header of the webpage styling details */
+	color: #000000;
+	text-shadow:0 0 2px rgb(46, 46, 46);
+	font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h2{ /* Second Header of the webpage styling details */
+	color: #000000;
+	text-shadow:0 0 2px rgb(46, 46, 46);
+	font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h3{ /* Third Header of the webpage styling details */
+	color: #000000;
+    text-shadow:0 0 2px rgb(46, 46, 46);
+	font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+p{  /* Text of the body of each paragraph text styling */
+	color: #000000;
+	font-family: Georgia, 'Times New Roman', Times, serif
+    
+}
+
+
